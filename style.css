@@ -1,0 +1,32 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading button{
+    float: right;
+}
+.heading h3{
+    display:inline;
+}
+.Mr_mario{
+    width: 100%;
+}
+footer{
+    line-height: 2;
+    margin: 0px;
+    width: 100%;
+}
+.imgInstruc{
+    display: inline-block;
+    width: 45%;
+}
+.modal-dialog{
+    width: 90%;
+}
+video{
+    background-image: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 35px;
+}
